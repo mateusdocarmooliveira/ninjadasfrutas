@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
     @font-face {
       font-family: go;
-      src: url("/go3v2.ttf");
+      src: url("go3v2.ttf");
     }
     body {
       margin: 0;
